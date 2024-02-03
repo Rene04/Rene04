@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rene04
 - 👀 I’m interested in Network security and AI
-- 🌱 I’m currently learning Python, java 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Guys whicht have the same Interests 
 - 📫 How to reach me ...
 
