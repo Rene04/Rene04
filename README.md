@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rene04
 - 👀 I’m interested in Cyber security and Maschine Learning 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Pandas, Numpy
